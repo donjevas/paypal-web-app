@@ -102,7 +102,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.159.150.118:8081/repository/TD_snapshot/</url>
+	      <url>http://54.159.151.118:8081/repository/TD_snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
